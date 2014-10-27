@@ -22,6 +22,7 @@ SHORTCUTS
 To check the diferents shortcuts aviable on Wordpress blog theme you should visit the  feature’s seccion of the demo version.
 
 COLUMNS
+-
 As you can see you are able to make diferents columns with an easy shortcut like this:
 
 [two_column]    Text you want    [/two_column]
@@ -33,12 +34,14 @@ As you can see you are able to make diferents columns with an easy shortcut like
 In order to make things a little bit easier, you only have to put the whole text between the two shortcut’s code referenced with orange color in the previous example. Automatically text/images will be displayed as a two, three of four column text/grid.
 
 SECTION
+-
 If you want to make some order on your website’s content you can use the section shortcut. It will display as a full width line that makes a separation between contents. In fact it’s just a 1 px line with the header background color but you can also add to it an html color. Let’s see an example:
 
 [section]     This will display a 1 px line with the header background color
 [section color=”#333”]      This will display a 1 px line with grey color
 
 ICONS
+-
 Znarer comes with a 200 icons set aviable. You can add icons to your posts, pages or widgets just typing a simple shortcut. Let’s see an example:
 
 [icon type=”facebook29” width=”24”]
