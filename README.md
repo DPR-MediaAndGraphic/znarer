@@ -25,7 +25,9 @@ COLUMNS
 As you can see you are able to make diferents columns with an easy shortcut like this:
 
 [two_column]    Text you want    [/two_column]
+
 [three_column]    Text you want    [/three_column]
+
 [four_column]    Text you want    [/four_column]
 
 In order to make things a little bit easier, you only have to put the whole text between the two shortcut’s code referenced with orange color in the previous example. Automatically text/images will be displayed as a two, three of four column text/grid.
